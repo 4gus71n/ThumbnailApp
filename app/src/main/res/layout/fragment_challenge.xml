@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/challenge_fragment_swipe_refresh_layout"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:clipToPadding="false"
+        app:layoutManager="android.support.v7.widget.GridLayoutManager"
+        app:spanCount="3"
+        android:background="@android:color/black"
+        tools:listitem="@layout/view_holder_player"
+        android:padding="@dimen/view_holder_player_container_padding"
+        android:id="@+id/challenge_fragment_recycler_view"
+        android:layout_width="match_parent" android:layout_height="match_parent"/>
+
+</android.support.v4.widget.SwipeRefreshLayout>
