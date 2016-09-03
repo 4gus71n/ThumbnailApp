@@ -7,6 +7,7 @@ A simple code challenge that requires getting a user list from a webservice and 
 I used a simplified version of [Fernando Cejas Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/). I got rid of a couple of layers and the project isn't split in data, domain and presentation. Mainly I just kept the UseCases, the Repository pattern (although isn't 100% a repository pattern, lazy guilt there) and the MVP architecture.
 
 #Technologies that I used
+- Picasso: To load the images fron the web through a simple API.
 - Dagger: To make the dependency injection.
 - Android SDK components: Just a RecyclerView with a GridLayoutManager.
 - Retrofit + OkHttpClient: To perform the HTTP requests.
@@ -37,6 +38,8 @@ for us.
 - As you can see I got rid of a couple of layers from the Clean Architecture, because this app isn't complex enough to require those layers I avoided some dependency injections, for example: I didn't inject the Executor in the [UseCase](https://github.com/4gus71n/ThumbnailApp/blob/fee4c357334183d01be2081a5e0b15abec1f4c0f/app/src/main/java/com/si/thumbnailapp/net/usecases/UseCase.java) class. I didn't inject the OkHttpClient or the Retrofit instance in the [ServiceFactory](https://github.com/4gus71n/ThumbnailApp/blob/fee4c357334183d01be2081a5e0b15abec1f4c0f/app/src/main/java/com/si/thumbnailapp/net/services/ServiceFactory.java). I didn't inject the Repositories in the use cases.
 - Checked against Lollipop and Marshmellow (there's no special single permissons that can be taken off, so there's no need to perform any type of single permission validation).
 - I'll add some Robolectric Fragment unit testing using a mocked Presenter if I've time left this weekend :B
+- I'm cancelling the image requests that're outside the Grid, this way if you scroll really fast through the grid, we'll avoid stacking up several request. Check the ViewHolder class, the [cancelLoading](https://github.com/4gus71n/ThumbnailApp/blob/master/app/src/main/java/com/si/thumbnailapp/ui/challenge/adapter/PlayerViewHolder.java#L67) method.
+- The MainActivity is being use only as a shell container for the Fragment. I like keeping all the logic in the Fragment/Presenters so Its easier to manage.
 
 #Some screencaps
 ![alt tag](https://github.com/4gus71n/ThumbnailApp/blob/master/Screenshot_2016-09-02-14-41-48.png?raw=true)
@@ -44,5 +47,7 @@ for us.
 #APK
 [Click here](https://github.com/4gus71n/ThumbnailApp/raw/master/app-debug.apk) to download the apk debug deploy to your device.
 
-
+#References
+- [Codepath Wiki](http://guides.codepath.com/android)
+- [Fernando Cejas Clean Architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
