@@ -77,6 +77,18 @@ public class PlayerViewHolder extends RecyclerView.ViewHolder {
         });
     }
 
+    public TextView getPositionTextView() {
+        return mPositionTextView;
+    }
+
+    public TextView getNameTextView() {
+        return mFirstNameTextView;
+    }
+
+    public TextView getLastNameTextView() {
+        return mLastNameTextView;
+    }
+
     public interface OnItemClicked {
         void onPositionClicked(int position);
     }

@@ -30,9 +30,11 @@ import dagger.Provides;
 public class ApplicationModule {
 
     private final Context mContext;
+    private final ServiceFactory mServiceFactory;
 
     public ApplicationModule(Context context) {
         mContext = context;
+        mServiceFactory = new ServiceFactory(mContext);
     }
 
     @Provides
@@ -42,6 +44,6 @@ public class ApplicationModule {
 
     @Provides
     ChallengeService provideChallengeService() {
-        return ServiceFactory.createRetrofitService(ChallengeService.class, BuildConfig.BASE_HOST);
+        return mServiceFactory.createRetrofitService(ChallengeService.class, BuildConfig.BASE_HOST);
     }
 }

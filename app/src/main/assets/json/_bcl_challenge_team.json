@@ -1,0 +1,4721 @@
+{
+  "Id": 450221,
+  "Name": "Eagles",
+  "WebsiteURI": "http://teamwall.com/450221",
+  "DivisionId": 348643,
+  "DivisionName": "Squirt",
+  "SessionId": 85521,
+  "SessionName": "Baseball 2016",
+  "SessionBegins": "2015-03-01T00:00:00",
+  "SessionEnds": "2017-01-31T23:59:00",
+  "LeagueName": "Champions Youth Baseball League",
+  "City": "Oshawa Southwest",
+  "State": "ON",
+  "Zip": "L1J4G1",
+  "Longitude": null,
+  "Latitude": null,
+  "IsAllStar": false,
+  "LeagueId": 15000452,
+  "Sport": "Baseball",
+  "Status": "Active",
+  "Volunteers": [
+    {
+      "Id": 12123345,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10117343,
+        "AccountId": 3060764,
+        "UserId": 8000677,
+        "HasPersonImage": false,
+        "FirstName": "First",
+        "LastName": "Guy",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=oIqdZYIFyP%2bqUjpctSOVqvcWRQVkKn5vwIrMUj7jRvI%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3253458,
+          "Street": "42 Raylinsky Rd.",
+          "City": "Saratoga Springs",
+          "State": "NY",
+          "Zip": "H3c4s5",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11674898,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10117659,
+        "AccountId": 3060866,
+        "UserId": 7728585,
+        "HasPersonImage": false,
+        "FirstName": "A",
+        "LastName": "Astort-Tubert",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=UrifQ6Hipa8iZH56t8Ohqp%2f7m9xu5KAfAE%2fTmKUie3o%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3253562,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11600889,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10050590,
+        "AccountId": 3037841,
+        "UserId": 6322373,
+        "HasPersonImage": false,
+        "FirstName": "A",
+        "LastName": "Bethel",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=cd5bqPQ76x5hBl6KMXxavS2Rpd4ANCE%2fZNTeu%2f8Blms%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11819322,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10268477,
+        "AccountId": 3117847,
+        "UserId": 8124182,
+        "HasPersonImage": false,
+        "FirstName": "B",
+        "LastName": "Brockhaug",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=MrrHQh9%2brpilbNWVhUsY7LbpbYXDBgNnUrL%2fQxc9ZHw%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9152042,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8073773,
+        "AccountId": 2462199,
+        "UserId": 6026389,
+        "HasPersonImage": true,
+        "FirstName": "J",
+        "LastName": "Cameron",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=LWDLf%2b0NGNJjPzj9AeXPHRbFmCbXJKdsaI6xTjQstFs%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 2995419,
+          "Street": "18 Division St",
+          "City": "Saratoga Springs",
+          "State": "NY",
+          "Zip": "V5Y 0C1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9231913,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8073722,
+        "AccountId": 2462182,
+        "UserId": 5498810,
+        "HasPersonImage": true,
+        "FirstName": "C",
+        "LastName": "Christie",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=BpteP59QW4Z9skx%2fbJM8aI9EqSDZUhs%2fjpfnNdj6W2o%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 2683850,
+          "Street": "726 Annapolis Avenue",
+          "City": "Oshawa",
+          "State": "ON",
+          "Zip": "L1J6H2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11998684,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10468027,
+        "AccountId": 3211314,
+        "UserId": 8272875,
+        "HasPersonImage": false,
+        "FirstName": "O",
+        "LastName": "Clarke",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=aviWSXMWS1BZbHrkDSiq%2fjopNzPnVwwBUX32AMOksb0%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3404994,
+          "Street": "1 Whatever street",
+          "City": null,
+          "State": "ON",
+          "Zip": "E2E2E2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11563104,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10014784,
+        "AccountId": 3025893,
+        "UserId": 7911528,
+        "HasPersonImage": false,
+        "FirstName": "S",
+        "LastName": "Coach",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=SxdZl9sguo1wlzVBjyB4odqgAknaLanIuvcoa1QFIIc%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3218361,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10507864,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8095495,
+        "AccountId": 2467997,
+        "UserId": 6048089,
+        "HasPersonImage": false,
+        "FirstName": "H",
+        "LastName": "Davidson",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=EaihkaDOcj3eFAGiMG%2bOnU0NUjNGIrCuU4UUBV1BREw%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10770430,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9318006,
+        "AccountId": 2822698,
+        "UserId": 1145080,
+        "HasPersonImage": false,
+        "FirstName": "N",
+        "LastName": "Depasquale",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=JSoRG5AE5HtPpUOZW5UcDhozX3Od5xXg3Fb%2fcrPJTcs%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3275038,
+          "Street": "18 Divsion street",
+          "City": "Saratoga",
+          "State": "JA",
+          "Zip": "A1A1A1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11636920,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10084559,
+        "AccountId": 3049036,
+        "UserId": 7972481,
+        "HasPersonImage": false,
+        "FirstName": "F",
+        "LastName": "Gallart",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Iszrx1CMWp9BnhtpIQ%2fT%2fv4ZIsYCMNSIfebmeADfr60%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3241802,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12234242,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10703005,
+        "AccountId": 3337202,
+        "UserId": 8437861,
+        "HasPersonImage": false,
+        "FirstName": "J",
+        "LastName": "Gentile",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=qoLVuIoS7QkRbjKjUinFTAqpAkT%2fAsBxcHix7UiM5L8%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3531567,
+          "Street": "1 Empire State Plaza North",
+          "City": "Albany",
+          "State": "NY",
+          "Zip": "12210",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11582222,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10031096,
+        "AccountId": 3031076,
+        "UserId": 7926584,
+        "HasPersonImage": false,
+        "FirstName": "T",
+        "LastName": "Guy",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=BUA7j4HbJQqC2UqguWUbJ0ZwK9TJdu1Yl56s4NrRuAE%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3223605,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9179777,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8095466,
+        "AccountId": 2467991,
+        "UserId": 6048061,
+        "HasPersonImage": true,
+        "FirstName": "F",
+        "LastName": "Jacobson",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=7yqX16GNSdtsSjJVCDt2xyO%2bcdNnq2yQlUJXa3imRmE%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11998652,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10467970,
+        "AccountId": 3211289,
+        "UserId": 8272829,
+        "HasPersonImage": false,
+        "FirstName": "K",
+        "LastName": "Jennings",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=zHczOLmEKJux91ABMI7105w0zLVdzbnRbKSM6%2fR57Bc%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3404968,
+          "Street": "324",
+          "City": null,
+          "State": "ON",
+          "Zip": "K1K2K3",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12186140,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10655474,
+        "AccountId": 3316082,
+        "UserId": 8403705,
+        "HasPersonImage": false,
+        "FirstName": "Katrina",
+        "LastName": "Jia Young Ching",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=pkG7Ukg%2bmJfLQgC8DZPuXIbMryNkAGSWU6kckwhC8WE%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12202838,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10672799,
+        "AccountId": 3324068,
+        "UserId": 8416449,
+        "HasPersonImage": false,
+        "FirstName": "Katrina",
+        "LastName": "Jia Young Ching",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=iJ4uk7I3XeUPTWFLQQW4KMAAnvXS%2bFoL4vC4yA%2bf4yQ%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11696554,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10136879,
+        "AccountId": 3067668,
+        "UserId": 8017885,
+        "HasPersonImage": true,
+        "FirstName": "S",
+        "LastName": "Khan",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=BLgzNv%2bQSsEMDr%2fIyJkzmTgNPAcM4FlbPmYohPa57v8%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12088924,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10556733,
+        "AccountId": 3269247,
+        "UserId": 8335414,
+        "HasPersonImage": false,
+        "FirstName": "J",
+        "LastName": "Landau",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=ceSO1NMZ398fa5QMHCylZFTXi2qlk3E2gsZSsV8d%2fXE%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10112217,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8820288,
+        "AccountId": 2676352,
+        "UserId": 6757172,
+        "HasPersonImage": true,
+        "FirstName": "B",
+        "LastName": "Law",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=htYvVW06fgZNs4Ue6cGNnVkf2oUHb7HCjqIWqov1Kl4%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12186156,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10655499,
+        "AccountId": 3316091,
+        "UserId": 8403725,
+        "HasPersonImage": false,
+        "FirstName": "T",
+        "LastName": "Lynch",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=W%2fyeBW7t6Df%2bt%2fcYV3Vj5ioJp0JyxrsfVs1WpSFCP90%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12017398,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10484594,
+        "AccountId": 3223409,
+        "UserId": 8285648,
+        "HasPersonImage": false,
+        "FirstName": "Gabriel",
+        "LastName": "Marcos",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=8FsU6SFN2dOaZGKjdEchd4F1c%2fsifcSCeltIgsDZ83g%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3417102,
+          "Street": "1 Whatever street",
+          "City": null,
+          "State": "ON",
+          "Zip": "E2E2E2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12087888,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10555203,
+        "AccountId": 3268093,
+        "UserId": 8334391,
+        "HasPersonImage": false,
+        "FirstName": "Gabriel",
+        "LastName": "Marcos",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=ycMRFw4%2bjBk%2fcvcrOTqBKzZCXlJSm2hO2zqYLEuMApA%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11111116,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9157319,
+        "AccountId": 2775743,
+        "UserId": 7078841,
+        "HasPersonImage": false,
+        "FirstName": "G",
+        "LastName": "Martino",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=IJOBPlF6vAdppLwXSdFoANvpKRO56%2f%2fTUk5u6kGSTmc%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 2960967,
+          "Street": "18 Division St",
+          "City": "Saratoga Springs",
+          "State": "NY",
+          "Zip": "L1H 1L1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11564968,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10016385,
+        "AccountId": 3026378,
+        "UserId": 7913006,
+        "HasPersonImage": true,
+        "FirstName": "C",
+        "LastName": "McCoach",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=avn0BysYfPMFF70JHpEZGw3xBdgcNt7JPduTK1l96wI%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3218864,
+          "Street": "100 Crosby Parkway KC1F",
+          "City": "Covington",
+          "State": "ON",
+          "Zip": "m1m1m1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11636721,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10084326,
+        "AccountId": 3048962,
+        "UserId": 7693732,
+        "HasPersonImage": true,
+        "FirstName": "S",
+        "LastName": "McPartlin",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=dfN3HOkeA%2bOg392QI9URQ5kFNKQFyjTgDI4yrzLpxhQ%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3241727,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11998618,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10467883,
+        "AccountId": 3211248,
+        "UserId": 7864485,
+        "HasPersonImage": false,
+        "FirstName": "K",
+        "LastName": "Munro",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=OufeS95t9cb1pgXMdHzvh5aH%2fpEdBbsZZD%2by3khG5eA%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3404927,
+          "Street": "235",
+          "City": "Land",
+          "State": "ON",
+          "Zip": "K1K2K3",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11650354,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10095635,
+        "AccountId": 3053388,
+        "UserId": 7982366,
+        "HasPersonImage": false,
+        "FirstName": "D",
+        "LastName": "Nutter",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Cm2t6%2b290tThhvuMsX95%2buCR9TTtDRhiwb9lClek30Y%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3246151,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11825511,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10274646,
+        "AccountId": 3120268,
+        "UserId": 7701149,
+        "HasPersonImage": false,
+        "FirstName": "T",
+        "LastName": "Olson",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=hS1g7HjBuQmCdPXK8TCIygNYfdMEKH3nQf2%2fGlmSS0E%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11006812,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9070794,
+        "AccountId": 2750185,
+        "UserId": 6923507,
+        "HasPersonImage": true,
+        "FirstName": "S",
+        "LastName": "Player",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=buxrbgdvw4889JU74Eh%2boYvU4IDQmIURz7LneCpI2H0%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11637404,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10084911,
+        "AccountId": 3049137,
+        "UserId": 5524321,
+        "HasPersonImage": true,
+        "FirstName": "J",
+        "LastName": "Raimo",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=2VAUTVqL%2bvXVaJY2MzPyLZIaJ9zpwTc1HlQex97tM%2fg%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3241916,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9179267,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8095786,
+        "AccountId": 2468075,
+        "UserId": 6048375,
+        "HasPersonImage": true,
+        "FirstName": "J",
+        "LastName": "Richards",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=sX6qZMFbtM9QD3gLjjJ95AVSIsdx%2b3jtd0piyUvR%2bCo%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12184892,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10654217,
+        "AccountId": 3315521,
+        "UserId": 7201582,
+        "HasPersonImage": false,
+        "FirstName": "S",
+        "LastName": "Schill",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=CjGBRW1FGomtJAXJad8oZ8ybCxQRlf8V7jR3rfC741c%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11998693,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10468034,
+        "AccountId": 3211316,
+        "UserId": 8272885,
+        "HasPersonImage": false,
+        "FirstName": "D",
+        "LastName": "Slattery",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=ui5ddhJ17y8ErptRBcBmTctkzLfKE3C1q0gwMhHnEqo%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3404996,
+          "Street": "1 Whatever street",
+          "City": null,
+          "State": "ON",
+          "Zip": "E2E2E2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10118516,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8824663,
+        "AccountId": 2677548,
+        "UserId": 6761471,
+        "HasPersonImage": true,
+        "FirstName": "Jason",
+        "LastName": "Steed",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=2kUqpHcn%2bvtCVvKJK9wQyb5Eq%2f2ReogQuKxSagIe0cQ%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11673637,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10116727,
+        "AccountId": 3060583,
+        "UserId": 8000121,
+        "HasPersonImage": true,
+        "FirstName": "Jason",
+        "LastName": "Steed",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=mB97jat3Db8vb1lzXsYfzdHk7hcBcjrIJ6X5oyavg1E%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3253272,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11600898,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10050617,
+        "AccountId": 3037847,
+        "UserId": 7801794,
+        "HasPersonImage": false,
+        "FirstName": "C",
+        "LastName": "Trotter",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=41rhLErGHBCS5ERxYC6EMpxLouaWF7hq3iVnFImmLMU%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11998672,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10468009,
+        "AccountId": 3211307,
+        "UserId": 8272865,
+        "HasPersonImage": false,
+        "FirstName": "H",
+        "LastName": "Vose",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Q7DEy8sb%2be8ywCpfL7QjXEqOGfSKG8ltIeHFuy96gz0%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3404987,
+          "Street": "1 Whatever street",
+          "City": null,
+          "State": "ON",
+          "Zip": "E2E2E2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11710264,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10151769,
+        "AccountId": 3073599,
+        "UserId": 8029741,
+        "HasPersonImage": false,
+        "FirstName": "B",
+        "LastName": "Weakman",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=fy8%2f1gVTRCLO9%2bcruFoWallJmD0fgAkHBr8I8I1lkr4%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3266549,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11710119,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10151657,
+        "AccountId": 3073557,
+        "UserId": 8029627,
+        "HasPersonImage": false,
+        "FirstName": "D",
+        "LastName": "Weaksauce",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=5t2VXctXxhS%2bDdIfHaEy2kIvPW2kVsx6V7YSIWE%2bj24%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3266513,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11714406,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10155868,
+        "AccountId": 3075017,
+        "UserId": 8033273,
+        "HasPersonImage": false,
+        "FirstName": "P",
+        "LastName": "Wow",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=6EGUIzw6TilCFV2Wai8IEwlUiDP0tm60%2fZhIvktFr%2fM%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3267947,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 0,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11565387,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10016667,
+        "AccountId": 3026458,
+        "UserId": 7913215,
+        "HasPersonImage": false,
+        "FirstName": "S",
+        "LastName": "Assistant",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=JG48mKWA18NwUZHmR6jB%2bgo%2b1rykR%2bp1DYqNekDwCqc%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3218945,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Assistant Coach",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11565428,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10016691,
+        "AccountId": 3026466,
+        "UserId": 7913236,
+        "HasPersonImage": false,
+        "FirstName": "V",
+        "LastName": "Volunteer",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=DkVuU6QvAnD6iqm085UikxhFjmSikRuTyuWwX%2bsOvkc%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3218954,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Volunteer",
+        "Volunteer": true,
+        "Player": false,
+        "ViewOrder": 4,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    }
+  ],
+  "Players": [
+    {
+      "Id": 10095409,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8073334,
+        "AccountId": 2462060,
+        "UserId": 6025954,
+        "HasPersonImage": true,
+        "FirstName": "L",
+        "LastName": "Andrews",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=91u6c%2f3Jd3Ey8k%2bJ0hxgWT6Vc6f8RFaIi4vEGCJx48s%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8073269,
+            "AccountId": 2462060,
+            "UserId": 6025892,
+            "HasPersonImage": false,
+            "FirstName": "G",
+            "LastName": "Andrews",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=k9tUeadTk3iSvL5EgKyAOe%2fk2eZgbszvjIVCcQbkC38%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "15",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095420,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8115295,
+        "AccountId": 2473568,
+        "UserId": 6067924,
+        "HasPersonImage": true,
+        "FirstName": "S",
+        "LastName": "Appleton",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=qknSZ6UbwBkP%2fn9wpUJfkTquWVe1jLJT84S259gO3bQ%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8115292,
+            "AccountId": 2473568,
+            "UserId": 6067922,
+            "HasPersonImage": false,
+            "FirstName": "L",
+            "LastName": "Appleton",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=l%2bxibU4fHJ2OaB7an563zNdHFR1HzKwmkf9IkCeHsRo%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "04",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9152040,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8073776,
+        "AccountId": 2462199,
+        "UserId": 6026393,
+        "HasPersonImage": true,
+        "FirstName": "H",
+        "LastName": "Cameron",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=9W7EzvOLl7NYsfQuYu3FyqFkz4yYrRR7B5t2%2b2jv9EU%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8073773,
+            "AccountId": 2462199,
+            "UserId": 6026389,
+            "HasPersonImage": true,
+            "FirstName": "J",
+            "LastName": "Cameron",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=LWDLf%2b0NGNJjPzj9AeXPHRbFmCbXJKdsaI6xTjQstFs%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 2995419,
+              "Street": "18 Division St",
+              "City": "Saratoga Springs",
+              "State": "NY",
+              "Zip": "V5Y 0C1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 2995419,
+          "Street": "18 Division St",
+          "City": "Saratoga Springs",
+          "State": "NY",
+          "Zip": "V5Y 0C1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "03",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11604482,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8118551,
+        "AccountId": 2462182,
+        "UserId": 6071150,
+        "HasPersonImage": true,
+        "FirstName": "K",
+        "LastName": "Christie",
+        "Nickname": "CJ",
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=tRVFOuyRDxhKNmCyYu25BQPvsnhWpoJsKp%2fA4L46SI8%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8073722,
+            "AccountId": 2462182,
+            "UserId": 5498810,
+            "HasPersonImage": true,
+            "FirstName": "C",
+            "LastName": "Christie",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=BpteP59QW4Z9skx%2fbJM8aI9EqSDZUhs%2fjpfnNdj6W2o%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 2683850,
+              "Street": "726 Annapolis Avenue",
+              "City": "Oshawa",
+              "State": "ON",
+              "Zip": "L1J6H2",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 2683856,
+          "Street": "726 Annapolis Avenue",
+          "City": "Oshawa",
+          "State": "ON",
+          "Zip": "L1J6H2",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095419,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8095512,
+        "AccountId": 2467997,
+        "UserId": 6048102,
+        "HasPersonImage": true,
+        "FirstName": "C",
+        "LastName": "Davidson",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=bd%2bWz9MoniIRMBiaLXh5C3TNs9z%2fk1srzPbZEFrGErs%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8095495,
+            "AccountId": 2467997,
+            "UserId": 6048089,
+            "HasPersonImage": false,
+            "FirstName": "H",
+            "LastName": "Davidson",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=EaihkaDOcj3eFAGiMG%2bOnU0NUjNGIrCuU4UUBV1BREw%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "99",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095418,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8072664,
+        "AccountId": 2461885,
+        "UserId": 6025292,
+        "HasPersonImage": true,
+        "FirstName": "B",
+        "LastName": "Holly",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=8v1333J4hDsEvVByvMz1HXCTztMcBS0%2fdYwfiSxUvOo%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8072645,
+            "AccountId": 2461885,
+            "UserId": 6025276,
+            "HasPersonImage": false,
+            "FirstName": "B",
+            "LastName": "Holly",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=VOC3xUeQ12lmT2miuK636lw2n69io8dF42qRJjxadC8%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "06",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9150539,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8072674,
+        "AccountId": 2461885,
+        "UserId": 6025304,
+        "HasPersonImage": true,
+        "FirstName": "M",
+        "LastName": "Holly",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=aUsCL9djvkaNIETEURGU7%2bbh4Q%2fav4s%2bj1g5bLndbGY%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8072645,
+            "AccountId": 2461885,
+            "UserId": 6025276,
+            "HasPersonImage": false,
+            "FirstName": "B",
+            "LastName": "Holly",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=VOC3xUeQ12lmT2miuK636lw2n69io8dF42qRJjxadC8%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "11",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 12234213,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10703017,
+        "AccountId": 3337202,
+        "UserId": 8437873,
+        "HasPersonImage": false,
+        "FirstName": "B",
+        "LastName": "John",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=YL1WEBAZZaE%2f4EPtWUz8pQPXDGIwuQazgG9RDpXWURw%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 10703005,
+            "AccountId": 3337202,
+            "UserId": 8437861,
+            "HasPersonImage": false,
+            "FirstName": "J",
+            "LastName": "Gentile",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=qoLVuIoS7QkRbjKjUinFTAqpAkT%2fAsBxcHix7UiM5L8%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3531567,
+              "Street": "1 Empire State Plaza North",
+              "City": "Albany",
+              "State": "NY",
+              "Zip": "12210",
+              "ShareLevel": 0
+            },
+            "Account": null
+          },
+          {
+            "Id": 10703010,
+            "AccountId": 3337202,
+            "UserId": 8437866,
+            "HasPersonImage": false,
+            "FirstName": "A",
+            "LastName": "Rovito",
+            "Nickname": "Johnny",
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=rpFHFvsWqx%2frsb0td6uQUvMhO3gMt8jPxiWGhdFw7AY%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3531567,
+              "Street": "1 Empire State Plaza North",
+              "City": "Albany",
+              "State": "NY",
+              "Zip": "12210",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3531567,
+          "Street": "1 Empire State Plaza North",
+          "City": "Albany",
+          "State": "NY",
+          "Zip": "12210",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "16",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095744,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8807979,
+        "AccountId": 2666354,
+        "UserId": 6745247,
+        "HasPersonImage": true,
+        "FirstName": "C",
+        "LastName": "Karp",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=vxk6vvZJlq36yq2COA8jBd3g%2fN6jMAEBmLRVS4WzKEY%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8786006,
+            "AccountId": 2666354,
+            "UserId": 6723861,
+            "HasPersonImage": true,
+            "FirstName": "J",
+            "LastName": "Karp",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=9a1fdcnOY44KrwGl1auClUowIC3qFA1wYDPA%2bPM0jIo%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "05",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095730,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8807971,
+        "AccountId": 2666352,
+        "UserId": 6745241,
+        "HasPersonImage": true,
+        "FirstName": "A",
+        "LastName": "Linardos",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=gUC783QYhsG2T050ZKradxfW%2f21jO%2bOV%2fpg9clVghW4%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8786002,
+            "AccountId": 2666352,
+            "UserId": 6283978,
+            "HasPersonImage": false,
+            "FirstName": "King",
+            "LastName": "Felix",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=XWpBpFElNHtTiYwWySo6QYwh2T%2bj1nM3mNIKWeVFqF0%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "88",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095410,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8095811,
+        "AccountId": 2468084,
+        "UserId": 6048396,
+        "HasPersonImage": true,
+        "FirstName": "T",
+        "LastName": "Lyle",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=2WGktsilUSMhqk6NXBsyJ2B5dwQYvDssUVs3zIJXCQw%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8095809,
+            "AccountId": 2468084,
+            "UserId": 6048394,
+            "HasPersonImage": false,
+            "FirstName": "R",
+            "LastName": "Lyle",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=okOzHm2L1%2bK0yhGEBudjeYgxts2yjm%2bbZgVMHlT9cVY%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "02",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 9151101,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8073111,
+        "AccountId": 2462009,
+        "UserId": 6025729,
+        "HasPersonImage": true,
+        "FirstName": "S",
+        "LastName": "Macklan",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=NQxUmI4xPfUrCrlTKjRQRwodnPq79bjl6zm7On9UU30%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8073086,
+            "AccountId": 2462009,
+            "UserId": 6025709,
+            "HasPersonImage": false,
+            "FirstName": "D",
+            "LastName": "Macklan",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=fULiP1O8%2fY5KKEjteLwkyfEglJhTa1ywXcWkEeCxQnQ%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "01",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11566222,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10017283,
+        "AccountId": 3026637,
+        "UserId": 7913826,
+        "HasPersonImage": false,
+        "FirstName": "K",
+        "LastName": "McKid",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=VSqQmTvgqAcs3rEppXqyxvSMtLHxf%2bhsnsPX8OImoiY%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 10017281,
+            "AccountId": 3026637,
+            "UserId": 7913823,
+            "HasPersonImage": false,
+            "FirstName": "D",
+            "LastName": "McKid",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Cjbd3rRV5vrndEedmx2L8N5mkvf5xH0m04MhzJMSY4U%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3219130,
+              "Street": "123 w",
+              "City": "Blahtown",
+              "State": "ON",
+              "Zip": "M1G1T1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3219130,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "12",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11600004,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10049688,
+        "AccountId": 3037497,
+        "UserId": 7943048,
+        "HasPersonImage": true,
+        "FirstName": "E",
+        "LastName": "Murray",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=N8cXuUUKP0iO3QZhs8YeAI5sh1GwKCdK6Y70v016wTs%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 10049671,
+            "AccountId": 3037497,
+            "UserId": 7943030,
+            "HasPersonImage": false,
+            "FirstName": "B",
+            "LastName": "Murray",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=xRzQW%2fBj%2fRd3HI2EKQAIpFXgJrn40s4RG2oK5cQ5CC8%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3230086,
+              "Street": "address",
+              "City": null,
+              "State": null,
+              "Zip": null,
+              "ShareLevel": 0
+            },
+            "Account": null
+          },
+          {
+            "Id": 10049674,
+            "AccountId": 3037497,
+            "UserId": 7943032,
+            "HasPersonImage": false,
+            "FirstName": "M",
+            "LastName": "Murray",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=%2fmAsiuObe%2bcdPMm3qfK%2fwDLSNOCeyEhG4G%2bYOEbRShU%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3230086,
+              "Street": "address",
+              "City": null,
+              "State": null,
+              "Zip": null,
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3230086,
+          "Street": "address",
+          "City": null,
+          "State": null,
+          "Zip": null,
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11688939,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10129640,
+        "AccountId": 3065253,
+        "UserId": 8011475,
+        "HasPersonImage": true,
+        "FirstName": "This",
+        "LastName": "Guy",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Vb1enVWVaNgnqNhLBSaBEZBx%2f0D1WC%2f13jlQu1or%2fZ4%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3258064,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10438345,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9070810,
+        "AccountId": 2750185,
+        "UserId": 6997609,
+        "HasPersonImage": true,
+        "FirstName": "A",
+        "LastName": "Player",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=JXgKKR7o%2ffv5PmIPi0hnYfwWinuBBQBs0niFwq4Xrms%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 9070794,
+            "AccountId": 2750185,
+            "UserId": 6923507,
+            "HasPersonImage": true,
+            "FirstName": "S",
+            "LastName": "Player",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=buxrbgdvw4889JU74Eh%2boYvU4IDQmIURz7LneCpI2H0%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "55",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11536305,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9990316,
+        "AccountId": 3018435,
+        "UserId": 7887917,
+        "HasPersonImage": false,
+        "FirstName": "B",
+        "LastName": "Playeur",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=aEhiNPAt7YfYRj5yiU1nIcvhk93vBG3Wj77c13EawiE%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 9990300,
+            "AccountId": 3018435,
+            "UserId": 7887898,
+            "HasPersonImage": false,
+            "FirstName": "G",
+            "LastName": "Playeur",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=LhpnY4t8nlSCI%2fMY53Wxe1uoMGoAkY2X6KuPw%2bT%2fWrU%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3210812,
+              "Street": "1042 Ashley Place",
+              "City": "Mountain View",
+              "State": "ON",
+              "Zip": "m4w1a1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3210812,
+          "Street": "1042 Ashley Place",
+          "City": "Mountain View",
+          "State": "ON",
+          "Zip": "m4w1a1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "10",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10095756,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 8807983,
+        "AccountId": 2666350,
+        "UserId": 6745251,
+        "HasPersonImage": true,
+        "FirstName": "F",
+        "LastName": "Raimo",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Rsa3gCjxDiAB%2f7RfaS%2bBbwAfYlO%2bCS3qE0uVLD1SFcs%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 8785991,
+            "AccountId": 2666350,
+            "UserId": 6723846,
+            "HasPersonImage": false,
+            "FirstName": "J",
+            "LastName": "Raimo",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=PdNQWMyhqfq%2bHe%2f5a8D7SSsg%2bOPm%2fSLXhCZZKgenZHw%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "77",
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 10489388,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 9109833,
+        "AccountId": 2762179,
+        "UserId": 7034260,
+        "HasPersonImage": false,
+        "FirstName": "E",
+        "LastName": "Shavit",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=iJ4trAMMMnJLf8vAkvHaG37XLjxyi3KcMcOrg%2faM%2fo8%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 9109830,
+            "AccountId": 2762179,
+            "UserId": 6823295,
+            "HasPersonImage": false,
+            "FirstName": "E",
+            "LastName": "Shavit",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Male",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=uyTLV5foaV8DVL7HcmR4ZULb%2bE5i0OAu8jn6RISv71Q%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": null,
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": null,
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11674135,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10117119,
+        "AccountId": 3060695,
+        "UserId": 8000470,
+        "HasPersonImage": true,
+        "FirstName": "P",
+        "LastName": "Stephenson",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 1,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=zHhcxfyf3aHtnde3t%2bFutp0lfnUmI%2fcWKhh4Xa%2b5iDM%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3253388,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11599970,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10049627,
+        "AccountId": 3037472,
+        "UserId": 7942989,
+        "HasPersonImage": false,
+        "FirstName": "W",
+        "LastName": "Test",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=WZsoo6TdqmE6FhFvRvMhoSRh0IvEERIOu0I%2beH91vwA%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 10049606,
+            "AccountId": 3037472,
+            "UserId": 7942962,
+            "HasPersonImage": false,
+            "FirstName": "W",
+            "LastName": "Test",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=mW%2brCRoJtRjZHtBU6pn1xARQaCmc5Qp91ZUeMTlZ4RQ%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3230061,
+              "Street": "address",
+              "City": "Tucson",
+              "State": "AZ",
+              "Zip": null,
+              "ShareLevel": 0
+            },
+            "Account": null
+          },
+          {
+            "Id": 10049613,
+            "AccountId": 3037472,
+            "UserId": 7942974,
+            "HasPersonImage": false,
+            "FirstName": "W",
+            "LastName": "Test",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=BME0PtGaB35s0Bx%2fbh9w1FnE3oJOBvLyE2E4aAsM8%2bA%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3230061,
+              "Street": "address",
+              "City": "Tucson",
+              "State": "AZ",
+              "Zip": null,
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3230061,
+          "Street": "address",
+          "City": "Tucson",
+          "State": "AZ",
+          "Zip": null,
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11730594,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10173960,
+        "AccountId": 2822698,
+        "UserId": 8047245,
+        "HasPersonImage": false,
+        "FirstName": "S",
+        "LastName": "Testosterone",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=Tf5DrOVKK5tUgAi%2fpjVQFWSxj%2fFgOQ9cj5JmVX7O%2fL0%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 9318006,
+            "AccountId": 2822698,
+            "UserId": 1145080,
+            "HasPersonImage": false,
+            "FirstName": "N",
+            "LastName": "Depasquale",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Female",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=JSoRG5AE5HtPpUOZW5UcDhozX3Od5xXg3Fb%2fcrPJTcs%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3275038,
+              "Street": "18 Divsion street",
+              "City": "Saratoga",
+              "State": "JA",
+              "Zip": "A1A1A1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3275038,
+          "Street": "18 Divsion street",
+          "City": "Saratoga",
+          "State": "JA",
+          "Zip": "A1A1A1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11730608,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10173974,
+        "AccountId": 2822698,
+        "UserId": 8047260,
+        "HasPersonImage": true,
+        "FirstName": "T",
+        "LastName": "Testosterone",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Female",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=iVHtJEmx%2bnnLwfbmRQjhXtz%2bL3KPH7EWS0gGvScuJBo%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 9318006,
+            "AccountId": 2822698,
+            "UserId": 1145080,
+            "HasPersonImage": false,
+            "FirstName": "N",
+            "LastName": "Depasquale",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": "Female",
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=JSoRG5AE5HtPpUOZW5UcDhozX3Od5xXg3Fb%2fcrPJTcs%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3275038,
+              "Street": "18 Divsion street",
+              "City": "Saratoga",
+              "State": "JA",
+              "Zip": "A1A1A1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3275038,
+          "Street": "18 Divsion street",
+          "City": "Saratoga",
+          "State": "JA",
+          "Zip": "A1A1A1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": null,
+      "Team": null,
+      "SourceTeamName": null
+    },
+    {
+      "Id": 11750452,
+      "PersonId": 0,
+      "LeagueId": 15000452,
+      "Person": {
+        "Id": 10193232,
+        "AccountId": 3089267,
+        "UserId": 8064302,
+        "HasPersonImage": false,
+        "FirstName": "B",
+        "LastName": "TwoTeams",
+        "Nickname": null,
+        "MiddleName": null,
+        "RenderedBirthdate": null,
+        "Birthdate": null,
+        "PersonType": 2,
+        "Sex": "Male",
+        "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=XQnIaMgn26iIkvORxaqoc3mxcsUc3AL39xow%2f4sv9QQ%3d",
+        "Addresses": [
+
+        ],
+        "Emails": [
+
+        ],
+        "Phones": [
+
+        ],
+        "Adults": [
+          {
+            "Id": 10193225,
+            "AccountId": 3089267,
+            "UserId": 8064297,
+            "HasPersonImage": false,
+            "FirstName": "D",
+            "LastName": "TwoTeams",
+            "Nickname": null,
+            "MiddleName": null,
+            "RenderedBirthdate": null,
+            "Birthdate": null,
+            "PersonType": 1,
+            "Sex": null,
+            "ImageUrl": "https://app1.siplay.com//Files/PersonCSImage?data=ipb9ZO6h68V0OzqIQzWU68N%2bxpB5TL%2bFd2C2YnYh72c%3d",
+            "Addresses": [
+
+            ],
+            "Emails": [
+
+            ],
+            "Phones": [
+
+            ],
+            "Adults": [
+
+            ],
+            "EmergencyContacts": [
+
+            ],
+            "HasMedicalInfo": false,
+            "MedicalInfo": null,
+            "PrimaryAddress": {
+              "Id": 3282290,
+              "Street": "123 w",
+              "City": "Blahtown",
+              "State": "ON",
+              "Zip": "M1G1T1",
+              "ShareLevel": 0
+            },
+            "Account": null
+          }
+        ],
+        "EmergencyContacts": [
+
+        ],
+        "HasMedicalInfo": false,
+        "MedicalInfo": null,
+        "PrimaryAddress": {
+          "Id": 3282290,
+          "Street": "123 w",
+          "City": "Blahtown",
+          "State": "ON",
+          "Zip": "M1G1T1",
+          "ShareLevel": 0
+        },
+        "Account": null
+      },
+      "Role": {
+        "Id": 0,
+        "Name": "Player",
+        "Volunteer": false,
+        "Player": true,
+        "ViewOrder": 1,
+        "PersonType": 0
+      },
+      "Division": null,
+      "JerseyNumber": "25",
+      "Team": null,
+      "SourceTeamName": null
+    }
+  ],
+  "StatusTimestamp": "2015-11-17T16:24:15Z",
+  "Articles": null,
+  "Settings": {
+    "TeamId": 450221,
+    "MenuSettings": null,
+    "StatisticsSettings": null,
+    "ShortLink": null,
+    "FacebookLink": "https://www.facebook.com/sportsillustratedplay",
+    "TwitterHandle": "siplaysports",
+    "BackgroundFileId": null,
+    "BannerFileId": null,
+    "LogoFileId": null,
+    "HighlightColor": "008800",
+    "BackgroundColor": "969c7f",
+    "BackgroundImageType": "CENTER",
+    "LeagueBannerImageId": null,
+    "LeagueBackgroundImageId": null,
+    "TeamDefaultBannerImageId": null,
+    "UseLeagueSiteBanner": 0,
+    "UseLeagueSiteBackground": 0,
+    "HeaderBackgroundColor": "444444",
+    "HeaderTransparent": true,
+    "HeaderImageType": "LEFT",
+    "BackgroundImage": {
+      "ImageS3ThumbnailUri": null,
+      "ImageS3SmallUri": null,
+      "ImageS3LargeUri": "2b5bd54a-8bc1-469f-b99e-c4e6565b8ba0_large.jpg",
+      "ImageS3Bucket": "ssu-images",
+      "Image": {
+        "Id": 0,
+        "PhotoAlbumId": null,
+        "Name": null,
+        "Caption": null,
+        "Size": 0,
+        "MimeType": null,
+        "Created": null,
+        "S3Bucket": "ssu-images",
+        "S3Key": null,
+        "S3ThumbnailKey": null,
+        "S3SmallKey": null,
+        "S3LargeKey": "2b5bd54a-8bc1-469f-b99e-c4e6565b8ba0_large.jpg",
+        "ThumbnailURI": null,
+        "SmallURI": null,
+        "LargeURI": "https://ssu-images.s3.amazonaws.com/2b5bd54a-8bc1-469f-b99e-c4e6565b8ba0_large.jpg"
+      }
+    },
+    "BannerImage": {
+      "ImageS3ThumbnailUri": null,
+      "ImageS3SmallUri": null,
+      "ImageS3LargeUri": "46822739-d721-437b-aacc-e5b3b37d4558_large.jpg",
+      "ImageS3Bucket": "ssu-images",
+      "Image": {
+        "Id": 0,
+        "PhotoAlbumId": null,
+        "Name": null,
+        "Caption": null,
+        "Size": 0,
+        "MimeType": null,
+        "Created": null,
+        "S3Bucket": "ssu-images",
+        "S3Key": null,
+        "S3ThumbnailKey": null,
+        "S3SmallKey": null,
+        "S3LargeKey": "46822739-d721-437b-aacc-e5b3b37d4558_large.jpg",
+        "ThumbnailURI": null,
+        "SmallURI": null,
+        "LargeURI": "https://ssu-images.s3.amazonaws.com/46822739-d721-437b-aacc-e5b3b37d4558_large.jpg"
+      }
+    },
+    "LogoImage": {
+      "ImageS3ThumbnailUri": null,
+      "ImageS3SmallUri": null,
+      "ImageS3LargeUri": "52ad9e9d-0c24-4be6-b5c8-aca93b83cb8c_large.jpg",
+      "ImageS3Bucket": "ssu-images",
+      "Image": {
+        "Id": 0,
+        "PhotoAlbumId": null,
+        "Name": null,
+        "Caption": null,
+        "Size": 0,
+        "MimeType": null,
+        "Created": null,
+        "S3Bucket": "ssu-images",
+        "S3Key": null,
+        "S3ThumbnailKey": null,
+        "S3SmallKey": null,
+        "S3LargeKey": "52ad9e9d-0c24-4be6-b5c8-aca93b83cb8c_large.jpg",
+        "ThumbnailURI": null,
+        "SmallURI": null,
+        "LargeURI": "https://ssu-images.s3.amazonaws.com/52ad9e9d-0c24-4be6-b5c8-aca93b83cb8c_large.jpg"
+      }
+    }
+  },
+  "Country": null
+}

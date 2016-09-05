@@ -56,9 +56,11 @@ public class ChallengeAdapter extends RecyclerView.Adapter<PlayerViewHolder> imp
      */
     public void setPlayerList(Team team, List<Player> playerList) {
         mTeam = team;
-        mPlayersList.clear();
-        mPlayersList.addAll(playerList);
-        notifyDataSetChanged();
+        if (playerList != null) {
+            mPlayersList.clear();
+            mPlayersList.addAll(playerList);
+            notifyDataSetChanged();
+        }
     }
 
     @Override

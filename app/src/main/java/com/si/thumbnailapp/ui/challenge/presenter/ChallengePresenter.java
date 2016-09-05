@@ -30,6 +30,16 @@ public class ChallengePresenter extends DefaultSupportFragmentLightCycle<Challen
     ChallengePresenter.View view;
     //endregion
 
+    //TODO Get rid of this getter. I'm using it to get the UseCase instance and mock it
+    //with Mockito, but this shouldn't be exposed.
+    public GetTeamUseCase getTeamUseCase() {
+        return getTeamUseCase;
+    }
+
+    public GetPlayerUseCase getPlayerUseCase() {
+        return getPlayerUseCase;
+    }
+
     //region Subscribers
     private class TeamSubscriber2 extends TeamSubscriber {
         @Override

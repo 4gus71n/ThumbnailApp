@@ -41,8 +41,23 @@ public class ChallengeFragment extends LightCycleSupportFragment<ChallengeFragme
     //endregion
 
     //region Variables declaration
+    private Snackbar mLastShownSnackbar;
     private ChallengeAdapter mChallengeAdapter;
     @Inject @LightCycle ChallengePresenter challengePresenter;
+    //endregion
+
+    //region Getter and Setters declaration
+    public ChallengeAdapter getAdapter() {
+        return mChallengeAdapter;
+    }
+
+    public Snackbar getLastSnackbar() {
+        return mLastShownSnackbar;
+    }
+
+    public RecyclerView gerRecyclerView() {
+        return mChallengeRecyclerView;
+    }
     //endregion
 
     //region ChallengePresenter.View implementation
@@ -58,7 +73,8 @@ public class ChallengeFragment extends LightCycleSupportFragment<ChallengeFragme
 
     @Override
     public void showMessage(String message) {
-        Snackbar.make(getView(), message, Snackbar.LENGTH_LONG).show();
+        mLastShownSnackbar = Snackbar.make(getView(), message, Snackbar.LENGTH_LONG);
+        mLastShownSnackbar.show();
     }
 
     @Override
@@ -113,6 +129,11 @@ public class ChallengeFragment extends LightCycleSupportFragment<ChallengeFragme
         challengePresenter.onLoadPlayerList();
     }
 
+    public ChallengePresenter getChallengePresenter() {
+        //TODO Get rid of this getter. I'm using it to get the Presenters instance and mock the
+        //UseCases with Mockito, but this shouldn't be exposed.
+        return challengePresenter;
+    }
     //endregion
 
     //region SwipeRefreshLayout.OnRefreshListener implementation
