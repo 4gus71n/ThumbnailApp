@@ -37,7 +37,7 @@ for us.
 #Notes
 - As you can see I got rid of a couple of layers from the Clean Architecture, because this app isn't complex enough to require those layers I avoided some dependency injections, for example: I didn't inject the Executor in the [UseCase](https://github.com/4gus71n/ThumbnailApp/blob/fee4c357334183d01be2081a5e0b15abec1f4c0f/app/src/main/java/com/si/thumbnailapp/net/usecases/UseCase.java) class. I didn't inject the OkHttpClient or the Retrofit instance in the [ServiceFactory](https://github.com/4gus71n/ThumbnailApp/blob/fee4c357334183d01be2081a5e0b15abec1f4c0f/app/src/main/java/com/si/thumbnailapp/net/services/ServiceFactory.java). I didn't inject the Repositories in the use cases.
 - Checked against Lollipop and Marshmellow (there's no special single permissons that can be taken off, so there's no need to perform any type of single permission validation).
-- I'll add some Robolectric Fragment unit testing using a mocked Presenter if I've time left this weekend :B
+- ~~I'll add some Robolectric Fragment unit testing using a mocked Presenter if I've time left this weekend :B~~Already done! Check the ChallengeFragmentTest class. I've use Mockito + Robolectric.
 - I'm cancelling the image requests that're outside the Grid, this way if you scroll really fast through the grid, we'll avoid stacking up several request. Check the ViewHolder class, the [cancelLoading](https://github.com/4gus71n/ThumbnailApp/blob/master/app/src/main/java/com/si/thumbnailapp/ui/challenge/adapter/PlayerViewHolder.java#L67) method.
 - The MainActivity is being use only as a shell container for the Fragment. I like keeping all the logic in the Fragment/Presenters so Its easier to manage.
 
